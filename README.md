@@ -1,2 +1,2 @@
-# ROBLOX Group Notifications
-ROBLOX group notification extension for Firefox.
+# ROBLOX Groups+
+Groups+ is a Firefox extension for ROBLOX that adds extra features to groups in ROBLOX.
